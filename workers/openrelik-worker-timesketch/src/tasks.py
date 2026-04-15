@@ -144,7 +144,7 @@ TASK_METADATA = {
             "label": "Share with Timesketch groups",
             "description": (
                 "Comma-separated list of Timesketch groups to share the "
-                "sketch with (e.g., investigators,soc)."
+                "sketch with (e.g., DF,SOC)."
             ),
             "type": "text",
             "required": False,
